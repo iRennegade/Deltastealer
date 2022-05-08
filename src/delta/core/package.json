@@ -1,0 +1,26 @@
+{
+  "name": "discord_desktop_core",
+  "description": "Discord Client for Desktop - Core App",
+  "main": "app/index.js",
+  "private": true,
+  "dependencies": {
+    "@discordapp/desktop-electron-test-rpc-protocol": "file:../desktop-electron-test-rpc-protocol",
+    "adm-zip": "^0.5.9",
+    "axios": "^0.26.1",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "invariant": "2.2.4",
+    "lodash": "4.17.19",
+    "mkdirp": "^0.5.1",
+    "request": "2.88.0",
+    "rimraf": "^2.6.3",
+    "yauzl": "^2.10.0"
+  },
+  "devDependencies": {
+    "@types/electron": "1.6.10",
+    "@types/lodash": "^4.14.182",
+    "@types/mkdirp": "1.0.2",
+    "@types/node": "17.0.8",
+    "@types/rimraf": "3.0.2"
+  }
+}

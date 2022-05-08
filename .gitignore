@@ -1,0 +1,6 @@
+node_modules
+src/api
+package-lock.json
+info.txt
+src/delta/dist/*
+src/config.json
