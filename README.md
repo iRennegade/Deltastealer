@@ -25,11 +25,10 @@ cd Deltastealer
 npm install
 npm start
 ```
-**If you don't know how to configure nginx or can't create exe file or something go to [Support / Buying](https://github.com/iRennegade/Deltastealer/README.md#support--buying) to get support**
+**If you don't know how to configure nginx or can't create exe file or something go to [Support / Buying](https://github.com/iRennegade/Deltastealer/#support--buying) to get support**
 
 ## Support / Buying
 > [Discord Server](https://discord.gg/gYsy74we5P)
-<br>
 
 ### Contact
 ```
