@@ -30,4 +30,10 @@ npm start
 ## Support / Buying
 > [Discord Server](https://discord.gg/gYsy74we5P)
 <br>
-> renne#0007
+
+### Contact
+```
+renne#0007
+renne@cotton.wtf
+renne@deltastealer.xyz
+```
